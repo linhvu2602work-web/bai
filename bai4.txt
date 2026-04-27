@@ -35,7 +35,7 @@ void xoa(Node* &head, Ngay x){
 }
 
 int main(){
-    Node *head = NULL; // bạn tự tạo danh sách
+    Node *head = NULL; 
 
     Ngay x;
     cout<<"Nhap ngay: ";
